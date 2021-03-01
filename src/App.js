@@ -19,8 +19,7 @@ const useStyles = makeStyles((theme) => ({
     display: 'flex',
     justifyContent: 'center',
     alignItems: 'center',
-    minHeight: `calc(100% - 50px)`,
-    height: '100vh'
+    minHeight: '100vh',
   },
   root: {
     margin: theme.spacing(5),
